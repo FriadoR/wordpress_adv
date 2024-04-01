@@ -1,14 +1,28 @@
 @font-face {
-  font-family: "Font";
-  src: url("fonts/HelveticaNeueLTProLt.otf") format("otf"),
-    url("fonts/HelveticaNeueLTProMd.otf") format("otf"),
-    url("fonts/HelveticaNeueLTProRoman.otf") format("otf"),
-    url("fonts/Merriweather-LightItalic.ttf") format("ttf"),
-    url("fonts/Montserrat-Light.ttf") format("ttf"),
-    url("fonts/Montserrat-Regular.ttf") format("ttf"),
-    url("fonts/Roboto-Regular.ttf") format("ttf");
-  font-weight: 400;
-  font-style: normal;
-
-  font-display: swap;
+  font-family: "HelveticaNeueLTProLt";
+  src: url("fonts/HelveticaNeueLTProLt.otf") format("otf");
+}
+@font-face {
+  font-family: "HelveticaNeueLTProMd";
+  src: url("fonts/HelveticaNeueLTProMd.otf") format("otf");
+}
+@font-face {
+  font-family: "HelveticaNeueLTProRoman";
+  src: url("fonts/HelveticaNeueLTProRoman.otf") format("otf");
+}
+@font-face {
+  font-family: "Merriweather-LightItalic";
+  src: url("fonts/Merriweather-LightItalic.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Montserrat-Light";
+  src: url("fonts/Montserrat-Light.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("fonts/Montserrat-Regular.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("fonts/Roboto-Regular.ttf") format("ttf");
 }
