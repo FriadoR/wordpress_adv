@@ -1,1 +1,1 @@
-## WordPress single app/Figma maket/PS
+## WordPress single app/Figma maket/PSs
