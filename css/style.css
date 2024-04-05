@@ -159,6 +159,8 @@ body {
   line-height: 22px;
 }
 
+/*Team page*/
+
 .team {
   height: 745px;
 }
@@ -222,4 +224,69 @@ team_item-title {
 .team_icon-box a:hover {
   font-size: 20px;
   color: hsl(0, 2%, 66%);
+}
+
+/*Provide*/
+.provide {
+  background-color: #181818;
+  padding-bottom: 155px;
+}
+.block_head {
+}
+
+.block_title {
+  padding-top: 176px;
+  color: #ffffff;
+}
+.block_text {
+  color: #777777;
+}
+.provide_inner {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 138px;
+}
+.provide_item {
+  text-align: center;
+  max-width: 335px;
+}
+.provide_item i {
+  color: #ffffff;
+  font-size: 63px;
+  width: 172px;
+  height: 172px;
+  border: 5px solid #ffffff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 43px;
+}
+.icon-lightbulb {
+}
+.provide_item-title {
+  font-family: "HelveticaNeueLTProLt", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin: 0;
+  margin-bottom: 31px;
+}
+.provide_item-text {
+  font-family: "Helvetica Neue Pro - Lt";
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: #383838;
+  font-size: 18px;
+  margin: 0;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: #383838;
+}
+.icon-heart-empty {
+}
+.icon-upload-cloud-outline {
 }
