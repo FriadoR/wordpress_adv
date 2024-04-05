@@ -130,7 +130,7 @@ body {
   grid-template-rows: max-content max-content;
   grid-template-columns: max-content max-content;
   gap: 178px;
-  justify-content: center;
+  place-content: center center;
 }
 .about__item {
   background-color: #181818;
@@ -157,4 +157,25 @@ body {
   letter-spacing: 0.02em;
   color: #b7b7b7;
   line-height: 22px;
+}
+
+.team {
+}
+.team_inner {
+}
+.block_head {
+}
+.team_title {
+}
+.team_text {
+}
+.team_item {
+}
+.team_item_img {
+}
+.team__icon-box {
+}
+.icon-twitter {
+}
+.icon-instagram {
 }
